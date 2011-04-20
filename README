@@ -1,0 +1,10 @@
+README – Created: May 2004
+Last Revised: April 2011
+
+Project: SETH (Search Everything Till it Helps)
+
+This a cocoon transformer to be built against trunk. If you just want to use
+the transformer itself, you just need the jar file. The code dates back to an
+Access hackfest project, though has been through several revisions. 
+
+art rhyno <projectconifer.ca>
